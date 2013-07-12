@@ -1,10 +1,4 @@
 aaaa
-<<<<<<< .merge_file_a05836
 hello
 what the
-=======
-
-vvvvvv
-
-tmp
->>>>>>> .merge_file_a06124
+sample
